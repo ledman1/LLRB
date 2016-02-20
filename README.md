@@ -9,7 +9,7 @@ To run wordfreq2.java, pass a text file as the only argument. The program then w
 
 `>`	- returns the alphabetically-last word in the text.
 
-`>` -word	- deletes "word" from the tree.
+`-word`	- deletes "word" from the tree.
 
 Example output:
 
