@@ -12,28 +12,29 @@ To run wordfreq2.java, pass a text file as the only argument. The program then w
 `>` -word	- deletes "word" from the tree.
 
 Example output:
-This text contains 2629 distinct words.
-Please enter a word to get its frequency, or hit enter to leave.
+
+> This text contains 2629 distinct words.
+> Please enter a word to get its frequency, or hit enter to leave.
 a
 
-"a" appears 632 times.
+> "a" appears 632 times.
 
 >a
 
-The word "abide" comes after "a".
+> The word "abide" comes after "a".
 
 <a
 
-"a" is the first word alphabetically.
+> "a" is the first word alphabetically.
 
 -a
 
-"a" has been deleted.
+> "a" has been deleted.
 
 a
 
-"a" does not appear.
+> "a" does not appear.
 
 >
 
-The alphabetically-last word in the text is "zigzag".
+> The alphabetically-last word in the text is "zigzag".
