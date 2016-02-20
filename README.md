@@ -15,11 +15,12 @@ Example output:
 
 > This text contains 2629 distinct words.
 > Please enter a word to get its frequency, or hit enter to leave.
+
 a
 
 > "a" appears 632 times.
 
->a
+\>a
 
 > The word "abide" comes after "a".
 
